@@ -34,7 +34,7 @@
 	<configuration>
 	  <localCheckout>true</localCheckout>
 	</configuration>
-      </plugin>
+      #</plugin>
     </plugins>
   </build>
 
