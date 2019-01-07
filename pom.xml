@@ -34,7 +34,7 @@
 	<configuration>
 	  <localCheckout>true</localCheckout>
 	</configuration>
-      #</plugin>
+      </plugin>
     </plugins>
   </build>
 
@@ -48,4 +48,4 @@
       <url>file:///${basedir}/../../../temp/maven2</url>
     </repository>
   </distributionManagement>	
-</project>#
+</project>
