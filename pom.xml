@@ -44,7 +44,7 @@
       <url>file:///${basedir}/../../../temp</url>
     </site>
     <repository>
-      <id>maven-demo1</id>
+      <id>maven-demo</id>
       <url>file:///${basedir}/../../../temp/maven2</url>
     </repository>
   </distributionManagement>	
